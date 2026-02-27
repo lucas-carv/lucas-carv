@@ -1,30 +1,48 @@
 <h1 align="center">👋 Olá, eu sou o Lucas</h1>
 
 ## My favorite languages
-<p align="center">https://github.com/lucas-carv/lucas-carv/blob/main/README.md
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ## My favorite tools & technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebird-EF4223?style=for-the-badge&logo=firebird&logoColor=white" />
+  <a href="https://visualstudio.microsoft.com/pt-br/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  </a>
+  <a href="http://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a>
+  <a href="https://www.mysql.com/"
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://clickhouse.com/"> 
+    <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  </a>
+  <a href="https://www.firebirdsql.org/"
+    <img src="https://img.shields.io/badge/Firebird-EF4223?style=for-the-badge&logo=firebird&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seq-3B3B3B?style=for-the-badge&logo=datadog&logoColor=white" />
+  <a href="https://grafana.com/"> 
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  </a>
+  <a href="https://datalust.co/"> 
+    <img src="https://img.shields.io/badge/Seq-3B3B3B?style=for-the-badge&logo=datadog&logoColor=white" />
+  </a>
 </p>
 
 ## My social networks
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-carvalho-24004b24b" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-carvalho-24004b24b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/lucascarvalho4692">
