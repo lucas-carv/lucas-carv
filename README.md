@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lucas</h1>
 
 ## My favorite languages
-<p align="center">
+<p align="center">https://github.com/lucas-carv/lucas-carv/blob/main/README.md
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
@@ -24,7 +24,7 @@
 
 ## My social networks
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-carvalho-24004b24b">
+  <a href="https://www.linkedin.com/in/lucas-carvalho-24004b24b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/lucascarvalho4692">
