@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Lucaas</h1>
+<h1 align="center">👋 Olá, eu sou o Lucas</h1>
 
 ## Favorite languages
 <p align="center">
